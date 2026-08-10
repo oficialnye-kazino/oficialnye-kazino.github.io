@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: oficialnye-kazino.github.io
+Sitemap: https://oficialnye-kazino.github.io/sitemap.xml
